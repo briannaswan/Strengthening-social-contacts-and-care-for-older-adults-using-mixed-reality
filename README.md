@@ -1,4 +1,4 @@
-# Strengthening social contacts and care for older people using mixed reality and metaverse
+# Strengthening social contact and care for older people using mixed reality and metaverse
 
-This working repository is for my Master's thesis, titled "Strengthening social contacts and care for older adults using mixed reality," expected completion August 2023.
+This  repository is for my Master's thesis, titled "Strengthening social contact and care for older adults using mixed reality," completed August 2023.
 
